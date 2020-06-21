@@ -37,7 +37,8 @@ const Layout = ({ children, site }) => (
       <div className="Wrap" >
         <div className="Footer">
           This website is a placeholder project for now to demonstrate how I plan on integrating 
-          integrate <a href="https://www.gatsbyjs.org/">Gatsby</a>, <a href="https://snipcart.com/">Snipcart</a> and <a href="https://www.datocms.com">DatoCMS</a>.
+           <a href="https://www.gatsbyjs.org/">Gatsby</a>, <a href="https://snipcart.com/">Snipcart</a> and <a href="https://www.datocms.com">DatoCMS</a>.
+            to create a highly responsive site
         </div>
       </div>
     </div>
